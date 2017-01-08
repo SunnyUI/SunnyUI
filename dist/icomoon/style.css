@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?cvkgqn');
+  src:  url('fonts/icomoon.eot?cvkgqn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?cvkgqn') format('truetype'),
+    url('fonts/icomoon.woff?cvkgqn') format('woff'),
+    url('fonts/icomoon.svg?cvkgqn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-微信:before {
+  content: "\e92c";
+}
+.icon-成功加入购物车svg:before {
+  content: "\e90c";
+}
+.icon-待付款:before {
+  content: "\e90d";
+}
+.icon-待收货:before {
+  content: "\e90e";
+}
+.icon-担保交易:before {
+  content: "\e90f";
+}
+.icon-店铺前面那个小方框:before {
+  content: "\e910";
+}
+.icon-个人认证svg:before {
+  content: "\e911";
+}
+.icon-购买:before {
+  content: "\e912";
+}
+.icon-购物车:before {
+  content: "\e913";
+}
+.icon-购物车1:before {
+  content: "\e914";
+}
+.icon-关闭:before {
+  content: "\e915";
+}
+.icon-还没填写地址:before {
+  content: "\e916";
+}
+.icon-加号:before {
+  content: "\e917";
+}
+.icon-加入购物车:before {
+  content: "\e918";
+}
+.icon-减号svg:before {
+  content: "\e919";
+}
+.icon-进入店铺:before {
+  content: "\e91a";
+}
+.icon-零钱 .path1:before {
+  content: "\e91b";
+  color: rgb(255, 180, 0);
+}
+.icon-零钱 .path2:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(255, 220, 49);
+}
+.icon-企业认证svg .path1:before {
+  content: "\e91d";
+  color: rgb(34, 23, 20);
+}
+.icon-企业认证svg .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(39, 37, 54);
+}
+.icon-首页:before {
+  content: "\e91f";
+}
+.icon-头像:before {
+  content: "\e920";
+}
+.icon-完成:before {
+  content: "\e921";
+}
+.icon-我的:before {
+  content: "\e922";
+}
+.icon-我的收入:before {
+  content: "\e923";
+}
+.icon-向上箭头:before {
+  content: "\e924";
+}
+.icon-向下箭头:before {
+  content: "\e926";
+}
+.icon-向右箭头:before {
+  content: "\e927";
+}
+.icon-向左箭头:before {
+  content: "\e928";
+}
+.icon-性别:before {
+  content: "\e929";
+}
+.icon-选择收货地址:before {
+  content: "\e92a";
+}
+.icon-erweima:before {
+  content: "\e92b";
+}
+.icon-促:before {
+  content: "\e900";
+}
+.icon-基本详情—有:before {
+  content: "\e901";
+}
+.icon-进店:before {
+  content: "\e902";
+}
+.icon-卷:before {
+  content: "\e903";
+}
+.icon-客服:before {
+  content: "\e904";
+}
+.icon-描述相符-(3):before {
+  content: "\e905";
+}
+.icon-描述相符-平-(3):before {
+  content: "\e906";
+}
+.icon-描述相符-上-(3):before {
+  content: "\e907";
+}
+.icon-描述相符:before {
+  content: "\e908";
+}
+.icon-全部商品:before {
+  content: "\e909";
+}
+.icon-收藏:before {
+  content: "\e90a";
+}
+.icon-同意:before {
+  content: "\e90b";
+}
+.icon-选择:before {
+  content: "\e925";
+}
+
